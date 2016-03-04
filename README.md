@@ -1,16 +1,16 @@
-# Material design icons
+# 材料设计图标|Material design icons
 
-Material design icons are the official [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google that are designed under the [material design guidelines](http://www.google.com/design/spec).
+材质设计图标是官方的|Material design icons are the official [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) 从谷歌设计的|from Google that are designed under the [material design guidelines](http://www.google.com/design/spec).
 
-### 2.2 Update
+### 2.2 更新|Update
 
-41 new icons!
+41 新增图标 |new icons!
 
-Check out what's new in the [material icons library](https://www.google.com/design/icons/).
+检查出什么是新的|Check out what's new in the [material icons library](https://www.google.com/design/icons/).
 
-## Getting Started
+## 开始|Getting Started
 
-Read the [developer guide](http://google.github.io/material-design-icons/) on how to use the material design icons in your project.
+读|Read the [developer guide](http://google.github.io/material-design-icons/) 关于如何在项目中使用材质设计图标|on how to use the material design icons in your project.
 
 ### Using a font collection
 
