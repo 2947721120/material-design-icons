@@ -30,8 +30,6 @@
 
 如果你想使用图标集与聚合物，我们建议通过使用 [`<iron-icons>`](https://github.com/polymerelements/iron-icons) 元|element ([`<core-icons>`](https://github.com/Polymer/core-icons) in v0.5).
 
-## License
+## 许可证
 
-We have made these icons available for you to incorporate them into your products under the [Creative Common Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/). Feel free to remix and re-share these icons and documentation in your products.
-We'd love attribution in your app's *about* screen, but it's not required.
-The only thing we ask is that you not re-sell the icons themselves.
+我们已经取得了这些图标可供您将其纳入您的产品下 [Creative Common Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/). 随意在你的产品混音和重新共享这些图标和文件。我们很乐意在你的应用程序的有关*屏幕*归属，但它不是必需的。我们的唯一要求是，你不要再卖图标本身.
