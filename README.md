@@ -12,12 +12,13 @@
 
 读|Read the [developer guide](http://google.github.io/material-design-icons/) 关于如何在项目中使用材质设计图标|on how to use the material design icons in your project.
 
-### Using a font collection
+### 使用字体集合|Using a font collection
 
-The `iconfont` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
+在 `iconfont` 文件夹中包含可包含在项目中的预生成的字体文件。这是特别方便的网络，但是，它通常是更好地链接到网络字体托管在谷歌字体|
+folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
 
-```html
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+```html  已处理中国地区使用
+<link href="https://font.c2cmalls.com/icon?family=Material+Icons"
       rel="stylesheet">
 ```
 
@@ -27,9 +28,9 @@ Read more in the [font portion](http://google.github.io/material-design-icons/#i
 
 The `css-sprite` and `svg-sprite` folders contain pre-generated sprite sheets, as well as svg symbols that can be `<use>`d more directly and with fewer constraints. Instructions for using them are in the [sprites documentation](https://github.com/google/material-design-icons/tree/master/sprites).
 
-## Polymer icons
+## 聚合物图标|Polymer icons
 
-If you wish to use the icon set with Polymer, we recommend consuming them via the [`<iron-icons>`](https://github.com/polymerelements/iron-icons) element ([`<core-icons>`](https://github.com/Polymer/core-icons) in v0.5).
+如果你想使用图标集与聚合物，我们建议通过使用|If you wish to use the icon set with Polymer, we recommend consuming them via the [`<iron-icons>`](https://github.com/polymerelements/iron-icons) 元|element ([`<core-icons>`](https://github.com/Polymer/core-icons) in v0.5).
 
 ## License
 
